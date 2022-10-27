@@ -364,7 +364,7 @@ export default function App() {
 
     </Grid>
     <View style={{height: 200, alignItems: 'flex-start'}}>
-      <Text style={{fontSize:30}}>Your score: {score}</Text>
+      <Text style={{fontSize:30}}>Current nuts: {score}</Text>
     </View>
     
 
